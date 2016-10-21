@@ -1,0 +1,3 @@
+Repositório com Ferramentas em NODE JS
+
+- test_table.js : Verifica se uma tabela está igual a outra, em duas conexões

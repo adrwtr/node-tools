@@ -1,0 +1,17 @@
+{
+  "name": "node-tools",
+  "private": true,
+  "version": "0.0.0",
+  "description": "node-tools",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.0",
+    "mysql": "^2.11.1",
+    "js-yaml": "^0",
+    "underscore" : "^1"
+  },
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.1"
+  }
+}
